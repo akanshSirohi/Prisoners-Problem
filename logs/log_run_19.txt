@@ -1,201 +1,201 @@
-Prisoner Number: 48, started solving!
-Prisoner 48 Initially At Pos: 47
+Prisoner Number: 42, started solving!
+Prisoner 42 Initially At Pos: 41
 
 
-Prisoner 48 Go To Box: 48
-Box has number: 43
-Next box is at: 42
-
-Prisoner 48 Go To Box: 43
-Box has number: 6
-Next box is at: 5
-
-Prisoner 48 Go To Box: 6
-Box has number: 5
-Next box is at: 4
-
-Prisoner 48 Go To Box: 5
-Box has number: 52
-Next box is at: 51
-
-Prisoner 48 Go To Box: 52
-Box has number: 71
-Next box is at: 70
-
-Prisoner 48 Go To Box: 71
-Box has number: 58
-Next box is at: 57
-
-Prisoner 48 Go To Box: 58
-Box has number: 66
-Next box is at: 65
-
-Prisoner 48 Go To Box: 66
-Box has number: 64
-Next box is at: 63
-
-Prisoner 48 Go To Box: 64
-Box has number: 38
-Next box is at: 37
-
-Prisoner 48 Go To Box: 38
-Box has number: 10
-Next box is at: 9
-
-Prisoner 48 Go To Box: 10
-Box has number: 73
-Next box is at: 72
-
-Prisoner 48 Go To Box: 73
-Box has number: 1
-Next box is at: 0
-
-Prisoner 48 Go To Box: 1
-Box has number: 47
-Next box is at: 46
-
-Prisoner 48 Go To Box: 47
-Box has number: 32
-Next box is at: 31
-
-Prisoner 48 Go To Box: 32
-Box has number: 3
-Next box is at: 2
-
-Prisoner 48 Go To Box: 3
-Box has number: 86
-Next box is at: 85
-
-Prisoner 48 Go To Box: 86
-Box has number: 23
-Next box is at: 22
-
-Prisoner 48 Go To Box: 23
-Box has number: 88
-Next box is at: 87
-
-Prisoner 48 Go To Box: 88
-Box has number: 24
-Next box is at: 23
-
-Prisoner 48 Go To Box: 24
-Box has number: 7
-Next box is at: 6
-
-Prisoner 48 Go To Box: 7
-Box has number: 69
-Next box is at: 68
-
-Prisoner 48 Go To Box: 69
-Box has number: 53
-Next box is at: 52
-
-Prisoner 48 Go To Box: 53
-Box has number: 42
-Next box is at: 41
-
-Prisoner 48 Go To Box: 42
-Box has number: 80
-Next box is at: 79
-
-Prisoner 48 Go To Box: 80
-Box has number: 96
-Next box is at: 95
-
-Prisoner 48 Go To Box: 96
-Box has number: 4
-Next box is at: 3
-
-Prisoner 48 Go To Box: 4
-Box has number: 63
-Next box is at: 62
-
-Prisoner 48 Go To Box: 63
-Box has number: 36
-Next box is at: 35
-
-Prisoner 48 Go To Box: 36
-Box has number: 11
-Next box is at: 10
-
-Prisoner 48 Go To Box: 11
-Box has number: 8
-Next box is at: 7
-
-Prisoner 48 Go To Box: 8
-Box has number: 13
-Next box is at: 12
-
-Prisoner 48 Go To Box: 13
-Box has number: 61
-Next box is at: 60
-
-Prisoner 48 Go To Box: 61
-Box has number: 82
-Next box is at: 81
-
-Prisoner 48 Go To Box: 82
-Box has number: 12
-Next box is at: 11
-
-Prisoner 48 Go To Box: 12
-Box has number: 74
-Next box is at: 73
-
-Prisoner 48 Go To Box: 74
-Box has number: 76
-Next box is at: 75
-
-Prisoner 48 Go To Box: 76
+Prisoner 42 Go To Box: 42
 Box has number: 40
 Next box is at: 39
 
-Prisoner 48 Go To Box: 40
-Box has number: 85
-Next box is at: 84
+Prisoner 42 Go To Box: 40
+Box has number: 82
+Next box is at: 81
 
-Prisoner 48 Go To Box: 85
-Box has number: 87
-Next box is at: 86
-
-Prisoner 48 Go To Box: 87
-Box has number: 78
-Next box is at: 77
-
-Prisoner 48 Go To Box: 78
-Box has number: 45
-Next box is at: 44
-
-Prisoner 48 Go To Box: 45
-Box has number: 92
-Next box is at: 91
-
-Prisoner 48 Go To Box: 92
-Box has number: 28
-Next box is at: 27
-
-Prisoner 48 Go To Box: 28
+Prisoner 42 Go To Box: 82
 Box has number: 21
 Next box is at: 20
 
-Prisoner 48 Go To Box: 21
-Box has number: 57
-Next box is at: 56
+Prisoner 42 Go To Box: 21
+Box has number: 47
+Next box is at: 46
 
-Prisoner 48 Go To Box: 57
-Box has number: 18
-Next box is at: 17
+Prisoner 42 Go To Box: 47
+Box has number: 35
+Next box is at: 34
 
-Prisoner 48 Go To Box: 18
+Prisoner 42 Go To Box: 35
+Box has number: 87
+Next box is at: 86
+
+Prisoner 42 Go To Box: 87
+Box has number: 46
+Next box is at: 45
+
+Prisoner 42 Go To Box: 46
+Box has number: 8
+Next box is at: 7
+
+Prisoner 42 Go To Box: 8
+Box has number: 95
+Next box is at: 94
+
+Prisoner 42 Go To Box: 95
+Box has number: 85
+Next box is at: 84
+
+Prisoner 42 Go To Box: 85
+Box has number: 19
+Next box is at: 18
+
+Prisoner 42 Go To Box: 19
+Box has number: 32
+Next box is at: 31
+
+Prisoner 42 Go To Box: 32
+Box has number: 5
+Next box is at: 4
+
+Prisoner 42 Go To Box: 5
+Box has number: 66
+Next box is at: 65
+
+Prisoner 42 Go To Box: 66
+Box has number: 96
+Next box is at: 95
+
+Prisoner 42 Go To Box: 96
+Box has number: 80
+Next box is at: 79
+
+Prisoner 42 Go To Box: 80
+Box has number: 24
+Next box is at: 23
+
+Prisoner 42 Go To Box: 24
+Box has number: 9
+Next box is at: 8
+
+Prisoner 42 Go To Box: 9
+Box has number: 26
+Next box is at: 25
+
+Prisoner 42 Go To Box: 26
+Box has number: 68
+Next box is at: 67
+
+Prisoner 42 Go To Box: 68
+Box has number: 60
+Next box is at: 59
+
+Prisoner 42 Go To Box: 60
+Box has number: 89
+Next box is at: 88
+
+Prisoner 42 Go To Box: 89
+Box has number: 69
+Next box is at: 68
+
+Prisoner 42 Go To Box: 69
+Box has number: 23
+Next box is at: 22
+
+Prisoner 42 Go To Box: 23
+Box has number: 86
+Next box is at: 85
+
+Prisoner 42 Go To Box: 86
+Box has number: 92
+Next box is at: 91
+
+Prisoner 42 Go To Box: 92
+Box has number: 17
+Next box is at: 16
+
+Prisoner 42 Go To Box: 17
+Box has number: 36
+Next box is at: 35
+
+Prisoner 42 Go To Box: 36
+Box has number: 4
+Next box is at: 3
+
+Prisoner 42 Go To Box: 4
+Box has number: 31
+Next box is at: 30
+
+Prisoner 42 Go To Box: 31
+Box has number: 71
+Next box is at: 70
+
+Prisoner 42 Go To Box: 71
+Box has number: 54
+Next box is at: 53
+
+Prisoner 42 Go To Box: 54
+Box has number: 93
+Next box is at: 92
+
+Prisoner 42 Go To Box: 93
+Box has number: 65
+Next box is at: 64
+
+Prisoner 42 Go To Box: 65
+Box has number: 7
+Next box is at: 6
+
+Prisoner 42 Go To Box: 7
+Box has number: 45
+Next box is at: 44
+
+Prisoner 42 Go To Box: 45
+Box has number: 73
+Next box is at: 72
+
+Prisoner 42 Go To Box: 73
+Box has number: 55
+Next box is at: 54
+
+Prisoner 42 Go To Box: 55
+Box has number: 74
+Next box is at: 73
+
+Prisoner 42 Go To Box: 74
+Box has number: 22
+Next box is at: 21
+
+Prisoner 42 Go To Box: 22
+Box has number: 90
+Next box is at: 89
+
+Prisoner 42 Go To Box: 90
 Box has number: 84
 Next box is at: 83
 
-Prisoner 48 Go To Box: 84
-Box has number: 97
-Next box is at: 96
+Prisoner 42 Go To Box: 84
+Box has number: 3
+Next box is at: 2
 
-Prisoner 48 Go To Box: 97
-Box has number: 39
-Next box is at: 38
+Prisoner 42 Go To Box: 3
+Box has number: 63
+Next box is at: 62
 
-1: Prisoner 48 failed and now all prisoners will die!
+Prisoner 42 Go To Box: 63
+Box has number: 28
+Next box is at: 27
+
+Prisoner 42 Go To Box: 28
+Box has number: 33
+Next box is at: 32
+
+Prisoner 42 Go To Box: 33
+Box has number: 10
+Next box is at: 9
+
+Prisoner 42 Go To Box: 10
+Box has number: 48
+Next box is at: 47
+
+Prisoner 42 Go To Box: 48
+Box has number: 79
+Next box is at: 78
+
+1: Prisoner 42 failed and now all prisoners will die!

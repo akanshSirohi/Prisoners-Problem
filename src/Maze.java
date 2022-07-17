@@ -69,6 +69,7 @@ public class Maze {
                 break;
             }
             writeLog("Prisoner Number: "+prisoner.getNum()+", end solving!");
+            writeLog("All prisoners are saved in this run!");
             writeLog("\n==================================================================\n");
         }
 
