@@ -1,0 +1,201 @@
+Prisoner Number: 35, started solving!
+Prisoner 35 Initially At Pos: 34
+
+
+Prisoner 35 Go To Box: 35
+Box has number: 100
+Next box is at: 99
+
+Prisoner 35 Go To Box: 100
+Box has number: 92
+Next box is at: 91
+
+Prisoner 35 Go To Box: 92
+Box has number: 56
+Next box is at: 55
+
+Prisoner 35 Go To Box: 56
+Box has number: 99
+Next box is at: 98
+
+Prisoner 35 Go To Box: 99
+Box has number: 90
+Next box is at: 89
+
+Prisoner 35 Go To Box: 90
+Box has number: 59
+Next box is at: 58
+
+Prisoner 35 Go To Box: 59
+Box has number: 74
+Next box is at: 73
+
+Prisoner 35 Go To Box: 74
+Box has number: 39
+Next box is at: 38
+
+Prisoner 35 Go To Box: 39
+Box has number: 13
+Next box is at: 12
+
+Prisoner 35 Go To Box: 13
+Box has number: 51
+Next box is at: 50
+
+Prisoner 35 Go To Box: 51
+Box has number: 2
+Next box is at: 1
+
+Prisoner 35 Go To Box: 2
+Box has number: 33
+Next box is at: 32
+
+Prisoner 35 Go To Box: 33
+Box has number: 97
+Next box is at: 96
+
+Prisoner 35 Go To Box: 97
+Box has number: 93
+Next box is at: 92
+
+Prisoner 35 Go To Box: 93
+Box has number: 26
+Next box is at: 25
+
+Prisoner 35 Go To Box: 26
+Box has number: 44
+Next box is at: 43
+
+Prisoner 35 Go To Box: 44
+Box has number: 57
+Next box is at: 56
+
+Prisoner 35 Go To Box: 57
+Box has number: 12
+Next box is at: 11
+
+Prisoner 35 Go To Box: 12
+Box has number: 8
+Next box is at: 7
+
+Prisoner 35 Go To Box: 8
+Box has number: 53
+Next box is at: 52
+
+Prisoner 35 Go To Box: 53
+Box has number: 71
+Next box is at: 70
+
+Prisoner 35 Go To Box: 71
+Box has number: 73
+Next box is at: 72
+
+Prisoner 35 Go To Box: 73
+Box has number: 70
+Next box is at: 69
+
+Prisoner 35 Go To Box: 70
+Box has number: 94
+Next box is at: 93
+
+Prisoner 35 Go To Box: 94
+Box has number: 5
+Next box is at: 4
+
+Prisoner 35 Go To Box: 5
+Box has number: 55
+Next box is at: 54
+
+Prisoner 35 Go To Box: 55
+Box has number: 7
+Next box is at: 6
+
+Prisoner 35 Go To Box: 7
+Box has number: 4
+Next box is at: 3
+
+Prisoner 35 Go To Box: 4
+Box has number: 46
+Next box is at: 45
+
+Prisoner 35 Go To Box: 46
+Box has number: 48
+Next box is at: 47
+
+Prisoner 35 Go To Box: 48
+Box has number: 38
+Next box is at: 37
+
+Prisoner 35 Go To Box: 38
+Box has number: 80
+Next box is at: 79
+
+Prisoner 35 Go To Box: 80
+Box has number: 20
+Next box is at: 19
+
+Prisoner 35 Go To Box: 20
+Box has number: 95
+Next box is at: 94
+
+Prisoner 35 Go To Box: 95
+Box has number: 40
+Next box is at: 39
+
+Prisoner 35 Go To Box: 40
+Box has number: 15
+Next box is at: 14
+
+Prisoner 35 Go To Box: 15
+Box has number: 77
+Next box is at: 76
+
+Prisoner 35 Go To Box: 77
+Box has number: 3
+Next box is at: 2
+
+Prisoner 35 Go To Box: 3
+Box has number: 67
+Next box is at: 66
+
+Prisoner 35 Go To Box: 67
+Box has number: 29
+Next box is at: 28
+
+Prisoner 35 Go To Box: 29
+Box has number: 81
+Next box is at: 80
+
+Prisoner 35 Go To Box: 81
+Box has number: 17
+Next box is at: 16
+
+Prisoner 35 Go To Box: 17
+Box has number: 25
+Next box is at: 24
+
+Prisoner 35 Go To Box: 25
+Box has number: 66
+Next box is at: 65
+
+Prisoner 35 Go To Box: 66
+Box has number: 96
+Next box is at: 95
+
+Prisoner 35 Go To Box: 96
+Box has number: 37
+Next box is at: 36
+
+Prisoner 35 Go To Box: 37
+Box has number: 50
+Next box is at: 49
+
+Prisoner 35 Go To Box: 50
+Box has number: 72
+Next box is at: 71
+
+Prisoner 35 Go To Box: 72
+Box has number: 11
+Next box is at: 10
+
+1: Prisoner 35 failed and now all prisoners will die!

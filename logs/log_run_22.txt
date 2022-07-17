@@ -1,0 +1,201 @@
+Prisoner Number: 76, started solving!
+Prisoner 76 Initially At Pos: 75
+
+
+Prisoner 76 Go To Box: 76
+Box has number: 20
+Next box is at: 19
+
+Prisoner 76 Go To Box: 20
+Box has number: 49
+Next box is at: 48
+
+Prisoner 76 Go To Box: 49
+Box has number: 78
+Next box is at: 77
+
+Prisoner 76 Go To Box: 78
+Box has number: 30
+Next box is at: 29
+
+Prisoner 76 Go To Box: 30
+Box has number: 5
+Next box is at: 4
+
+Prisoner 76 Go To Box: 5
+Box has number: 47
+Next box is at: 46
+
+Prisoner 76 Go To Box: 47
+Box has number: 15
+Next box is at: 14
+
+Prisoner 76 Go To Box: 15
+Box has number: 17
+Next box is at: 16
+
+Prisoner 76 Go To Box: 17
+Box has number: 70
+Next box is at: 69
+
+Prisoner 76 Go To Box: 70
+Box has number: 68
+Next box is at: 67
+
+Prisoner 76 Go To Box: 68
+Box has number: 52
+Next box is at: 51
+
+Prisoner 76 Go To Box: 52
+Box has number: 88
+Next box is at: 87
+
+Prisoner 76 Go To Box: 88
+Box has number: 19
+Next box is at: 18
+
+Prisoner 76 Go To Box: 19
+Box has number: 65
+Next box is at: 64
+
+Prisoner 76 Go To Box: 65
+Box has number: 45
+Next box is at: 44
+
+Prisoner 76 Go To Box: 45
+Box has number: 73
+Next box is at: 72
+
+Prisoner 76 Go To Box: 73
+Box has number: 43
+Next box is at: 42
+
+Prisoner 76 Go To Box: 43
+Box has number: 42
+Next box is at: 41
+
+Prisoner 76 Go To Box: 42
+Box has number: 100
+Next box is at: 99
+
+Prisoner 76 Go To Box: 100
+Box has number: 44
+Next box is at: 43
+
+Prisoner 76 Go To Box: 44
+Box has number: 48
+Next box is at: 47
+
+Prisoner 76 Go To Box: 48
+Box has number: 40
+Next box is at: 39
+
+Prisoner 76 Go To Box: 40
+Box has number: 7
+Next box is at: 6
+
+Prisoner 76 Go To Box: 7
+Box has number: 80
+Next box is at: 79
+
+Prisoner 76 Go To Box: 80
+Box has number: 81
+Next box is at: 80
+
+Prisoner 76 Go To Box: 81
+Box has number: 83
+Next box is at: 82
+
+Prisoner 76 Go To Box: 83
+Box has number: 39
+Next box is at: 38
+
+Prisoner 76 Go To Box: 39
+Box has number: 11
+Next box is at: 10
+
+Prisoner 76 Go To Box: 11
+Box has number: 18
+Next box is at: 17
+
+Prisoner 76 Go To Box: 18
+Box has number: 31
+Next box is at: 30
+
+Prisoner 76 Go To Box: 31
+Box has number: 71
+Next box is at: 70
+
+Prisoner 76 Go To Box: 71
+Box has number: 29
+Next box is at: 28
+
+Prisoner 76 Go To Box: 29
+Box has number: 58
+Next box is at: 57
+
+Prisoner 76 Go To Box: 58
+Box has number: 26
+Next box is at: 25
+
+Prisoner 76 Go To Box: 26
+Box has number: 61
+Next box is at: 60
+
+Prisoner 76 Go To Box: 61
+Box has number: 28
+Next box is at: 27
+
+Prisoner 76 Go To Box: 28
+Box has number: 41
+Next box is at: 40
+
+Prisoner 76 Go To Box: 41
+Box has number: 57
+Next box is at: 56
+
+Prisoner 76 Go To Box: 57
+Box has number: 13
+Next box is at: 12
+
+Prisoner 76 Go To Box: 13
+Box has number: 36
+Next box is at: 35
+
+Prisoner 76 Go To Box: 36
+Box has number: 75
+Next box is at: 74
+
+Prisoner 76 Go To Box: 75
+Box has number: 21
+Next box is at: 20
+
+Prisoner 76 Go To Box: 21
+Box has number: 69
+Next box is at: 68
+
+Prisoner 76 Go To Box: 69
+Box has number: 59
+Next box is at: 58
+
+Prisoner 76 Go To Box: 59
+Box has number: 4
+Next box is at: 3
+
+Prisoner 76 Go To Box: 4
+Box has number: 9
+Next box is at: 8
+
+Prisoner 76 Go To Box: 9
+Box has number: 3
+Next box is at: 2
+
+Prisoner 76 Go To Box: 3
+Box has number: 46
+Next box is at: 45
+
+Prisoner 76 Go To Box: 46
+Box has number: 50
+Next box is at: 49
+
+1: Prisoner 76 failed and now all prisoners will die!

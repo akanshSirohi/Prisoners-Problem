@@ -1,0 +1,201 @@
+Prisoner Number: 37, started solving!
+Prisoner 37 Initially At Pos: 36
+
+
+Prisoner 37 Go To Box: 37
+Box has number: 46
+Next box is at: 45
+
+Prisoner 37 Go To Box: 46
+Box has number: 12
+Next box is at: 11
+
+Prisoner 37 Go To Box: 12
+Box has number: 99
+Next box is at: 98
+
+Prisoner 37 Go To Box: 99
+Box has number: 40
+Next box is at: 39
+
+Prisoner 37 Go To Box: 40
+Box has number: 93
+Next box is at: 92
+
+Prisoner 37 Go To Box: 93
+Box has number: 18
+Next box is at: 17
+
+Prisoner 37 Go To Box: 18
+Box has number: 32
+Next box is at: 31
+
+Prisoner 37 Go To Box: 32
+Box has number: 86
+Next box is at: 85
+
+Prisoner 37 Go To Box: 86
+Box has number: 2
+Next box is at: 1
+
+Prisoner 37 Go To Box: 2
+Box has number: 59
+Next box is at: 58
+
+Prisoner 37 Go To Box: 59
+Box has number: 61
+Next box is at: 60
+
+Prisoner 37 Go To Box: 61
+Box has number: 68
+Next box is at: 67
+
+Prisoner 37 Go To Box: 68
+Box has number: 10
+Next box is at: 9
+
+Prisoner 37 Go To Box: 10
+Box has number: 76
+Next box is at: 75
+
+Prisoner 37 Go To Box: 76
+Box has number: 43
+Next box is at: 42
+
+Prisoner 37 Go To Box: 43
+Box has number: 64
+Next box is at: 63
+
+Prisoner 37 Go To Box: 64
+Box has number: 29
+Next box is at: 28
+
+Prisoner 37 Go To Box: 29
+Box has number: 33
+Next box is at: 32
+
+Prisoner 37 Go To Box: 33
+Box has number: 58
+Next box is at: 57
+
+Prisoner 37 Go To Box: 58
+Box has number: 60
+Next box is at: 59
+
+Prisoner 37 Go To Box: 60
+Box has number: 77
+Next box is at: 76
+
+Prisoner 37 Go To Box: 77
+Box has number: 74
+Next box is at: 73
+
+Prisoner 37 Go To Box: 74
+Box has number: 14
+Next box is at: 13
+
+Prisoner 37 Go To Box: 14
+Box has number: 80
+Next box is at: 79
+
+Prisoner 37 Go To Box: 80
+Box has number: 65
+Next box is at: 64
+
+Prisoner 37 Go To Box: 65
+Box has number: 84
+Next box is at: 83
+
+Prisoner 37 Go To Box: 84
+Box has number: 36
+Next box is at: 35
+
+Prisoner 37 Go To Box: 36
+Box has number: 25
+Next box is at: 24
+
+Prisoner 37 Go To Box: 25
+Box has number: 42
+Next box is at: 41
+
+Prisoner 37 Go To Box: 42
+Box has number: 96
+Next box is at: 95
+
+Prisoner 37 Go To Box: 96
+Box has number: 27
+Next box is at: 26
+
+Prisoner 37 Go To Box: 27
+Box has number: 97
+Next box is at: 96
+
+Prisoner 37 Go To Box: 97
+Box has number: 31
+Next box is at: 30
+
+Prisoner 37 Go To Box: 31
+Box has number: 11
+Next box is at: 10
+
+Prisoner 37 Go To Box: 11
+Box has number: 89
+Next box is at: 88
+
+Prisoner 37 Go To Box: 89
+Box has number: 39
+Next box is at: 38
+
+Prisoner 37 Go To Box: 39
+Box has number: 62
+Next box is at: 61
+
+Prisoner 37 Go To Box: 62
+Box has number: 92
+Next box is at: 91
+
+Prisoner 37 Go To Box: 92
+Box has number: 6
+Next box is at: 5
+
+Prisoner 37 Go To Box: 6
+Box has number: 26
+Next box is at: 25
+
+Prisoner 37 Go To Box: 26
+Box has number: 100
+Next box is at: 99
+
+Prisoner 37 Go To Box: 100
+Box has number: 41
+Next box is at: 40
+
+Prisoner 37 Go To Box: 41
+Box has number: 87
+Next box is at: 86
+
+Prisoner 37 Go To Box: 87
+Box has number: 55
+Next box is at: 54
+
+Prisoner 37 Go To Box: 55
+Box has number: 35
+Next box is at: 34
+
+Prisoner 37 Go To Box: 35
+Box has number: 70
+Next box is at: 69
+
+Prisoner 37 Go To Box: 70
+Box has number: 69
+Next box is at: 68
+
+Prisoner 37 Go To Box: 69
+Box has number: 56
+Next box is at: 55
+
+Prisoner 37 Go To Box: 56
+Box has number: 67
+Next box is at: 66
+
+1: Prisoner 37 failed and now all prisoners will die!

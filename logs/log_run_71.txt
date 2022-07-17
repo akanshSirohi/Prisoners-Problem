@@ -1,0 +1,201 @@
+Prisoner Number: 88, started solving!
+Prisoner 88 Initially At Pos: 87
+
+
+Prisoner 88 Go To Box: 88
+Box has number: 23
+Next box is at: 22
+
+Prisoner 88 Go To Box: 23
+Box has number: 5
+Next box is at: 4
+
+Prisoner 88 Go To Box: 5
+Box has number: 30
+Next box is at: 29
+
+Prisoner 88 Go To Box: 30
+Box has number: 83
+Next box is at: 82
+
+Prisoner 88 Go To Box: 83
+Box has number: 2
+Next box is at: 1
+
+Prisoner 88 Go To Box: 2
+Box has number: 45
+Next box is at: 44
+
+Prisoner 88 Go To Box: 45
+Box has number: 92
+Next box is at: 91
+
+Prisoner 88 Go To Box: 92
+Box has number: 61
+Next box is at: 60
+
+Prisoner 88 Go To Box: 61
+Box has number: 81
+Next box is at: 80
+
+Prisoner 88 Go To Box: 81
+Box has number: 52
+Next box is at: 51
+
+Prisoner 88 Go To Box: 52
+Box has number: 39
+Next box is at: 38
+
+Prisoner 88 Go To Box: 39
+Box has number: 58
+Next box is at: 57
+
+Prisoner 88 Go To Box: 58
+Box has number: 36
+Next box is at: 35
+
+Prisoner 88 Go To Box: 36
+Box has number: 69
+Next box is at: 68
+
+Prisoner 88 Go To Box: 69
+Box has number: 6
+Next box is at: 5
+
+Prisoner 88 Go To Box: 6
+Box has number: 13
+Next box is at: 12
+
+Prisoner 88 Go To Box: 13
+Box has number: 51
+Next box is at: 50
+
+Prisoner 88 Go To Box: 51
+Box has number: 49
+Next box is at: 48
+
+Prisoner 88 Go To Box: 49
+Box has number: 67
+Next box is at: 66
+
+Prisoner 88 Go To Box: 67
+Box has number: 94
+Next box is at: 93
+
+Prisoner 88 Go To Box: 94
+Box has number: 90
+Next box is at: 89
+
+Prisoner 88 Go To Box: 90
+Box has number: 24
+Next box is at: 23
+
+Prisoner 88 Go To Box: 24
+Box has number: 96
+Next box is at: 95
+
+Prisoner 88 Go To Box: 96
+Box has number: 87
+Next box is at: 86
+
+Prisoner 88 Go To Box: 87
+Box has number: 31
+Next box is at: 30
+
+Prisoner 88 Go To Box: 31
+Box has number: 38
+Next box is at: 37
+
+Prisoner 88 Go To Box: 38
+Box has number: 28
+Next box is at: 27
+
+Prisoner 88 Go To Box: 28
+Box has number: 65
+Next box is at: 64
+
+Prisoner 88 Go To Box: 65
+Box has number: 41
+Next box is at: 40
+
+Prisoner 88 Go To Box: 41
+Box has number: 84
+Next box is at: 83
+
+Prisoner 88 Go To Box: 84
+Box has number: 74
+Next box is at: 73
+
+Prisoner 88 Go To Box: 74
+Box has number: 59
+Next box is at: 58
+
+Prisoner 88 Go To Box: 59
+Box has number: 53
+Next box is at: 52
+
+Prisoner 88 Go To Box: 53
+Box has number: 78
+Next box is at: 77
+
+Prisoner 88 Go To Box: 78
+Box has number: 12
+Next box is at: 11
+
+Prisoner 88 Go To Box: 12
+Box has number: 68
+Next box is at: 67
+
+Prisoner 88 Go To Box: 68
+Box has number: 47
+Next box is at: 46
+
+Prisoner 88 Go To Box: 47
+Box has number: 26
+Next box is at: 25
+
+Prisoner 88 Go To Box: 26
+Box has number: 93
+Next box is at: 92
+
+Prisoner 88 Go To Box: 93
+Box has number: 63
+Next box is at: 62
+
+Prisoner 88 Go To Box: 63
+Box has number: 48
+Next box is at: 47
+
+Prisoner 88 Go To Box: 48
+Box has number: 33
+Next box is at: 32
+
+Prisoner 88 Go To Box: 33
+Box has number: 76
+Next box is at: 75
+
+Prisoner 88 Go To Box: 76
+Box has number: 15
+Next box is at: 14
+
+Prisoner 88 Go To Box: 15
+Box has number: 9
+Next box is at: 8
+
+Prisoner 88 Go To Box: 9
+Box has number: 27
+Next box is at: 26
+
+Prisoner 88 Go To Box: 27
+Box has number: 10
+Next box is at: 9
+
+Prisoner 88 Go To Box: 10
+Box has number: 54
+Next box is at: 53
+
+Prisoner 88 Go To Box: 54
+Box has number: 85
+Next box is at: 84
+
+1: Prisoner 88 failed and now all prisoners will die!

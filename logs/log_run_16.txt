@@ -1,0 +1,201 @@
+Prisoner Number: 29, started solving!
+Prisoner 29 Initially At Pos: 28
+
+
+Prisoner 29 Go To Box: 29
+Box has number: 57
+Next box is at: 56
+
+Prisoner 29 Go To Box: 57
+Box has number: 1
+Next box is at: 0
+
+Prisoner 29 Go To Box: 1
+Box has number: 24
+Next box is at: 23
+
+Prisoner 29 Go To Box: 24
+Box has number: 30
+Next box is at: 29
+
+Prisoner 29 Go To Box: 30
+Box has number: 21
+Next box is at: 20
+
+Prisoner 29 Go To Box: 21
+Box has number: 82
+Next box is at: 81
+
+Prisoner 29 Go To Box: 82
+Box has number: 26
+Next box is at: 25
+
+Prisoner 29 Go To Box: 26
+Box has number: 100
+Next box is at: 99
+
+Prisoner 29 Go To Box: 100
+Box has number: 88
+Next box is at: 87
+
+Prisoner 29 Go To Box: 88
+Box has number: 77
+Next box is at: 76
+
+Prisoner 29 Go To Box: 77
+Box has number: 8
+Next box is at: 7
+
+Prisoner 29 Go To Box: 8
+Box has number: 20
+Next box is at: 19
+
+Prisoner 29 Go To Box: 20
+Box has number: 60
+Next box is at: 59
+
+Prisoner 29 Go To Box: 60
+Box has number: 83
+Next box is at: 82
+
+Prisoner 29 Go To Box: 83
+Box has number: 54
+Next box is at: 53
+
+Prisoner 29 Go To Box: 54
+Box has number: 6
+Next box is at: 5
+
+Prisoner 29 Go To Box: 6
+Box has number: 52
+Next box is at: 51
+
+Prisoner 29 Go To Box: 52
+Box has number: 99
+Next box is at: 98
+
+Prisoner 29 Go To Box: 99
+Box has number: 22
+Next box is at: 21
+
+Prisoner 29 Go To Box: 22
+Box has number: 90
+Next box is at: 89
+
+Prisoner 29 Go To Box: 90
+Box has number: 71
+Next box is at: 70
+
+Prisoner 29 Go To Box: 71
+Box has number: 66
+Next box is at: 65
+
+Prisoner 29 Go To Box: 66
+Box has number: 25
+Next box is at: 24
+
+Prisoner 29 Go To Box: 25
+Box has number: 5
+Next box is at: 4
+
+Prisoner 29 Go To Box: 5
+Box has number: 40
+Next box is at: 39
+
+Prisoner 29 Go To Box: 40
+Box has number: 75
+Next box is at: 74
+
+Prisoner 29 Go To Box: 75
+Box has number: 36
+Next box is at: 35
+
+Prisoner 29 Go To Box: 36
+Box has number: 7
+Next box is at: 6
+
+Prisoner 29 Go To Box: 7
+Box has number: 98
+Next box is at: 97
+
+Prisoner 29 Go To Box: 98
+Box has number: 33
+Next box is at: 32
+
+Prisoner 29 Go To Box: 33
+Box has number: 34
+Next box is at: 33
+
+Prisoner 29 Go To Box: 34
+Box has number: 63
+Next box is at: 62
+
+Prisoner 29 Go To Box: 63
+Box has number: 81
+Next box is at: 80
+
+Prisoner 29 Go To Box: 81
+Box has number: 17
+Next box is at: 16
+
+Prisoner 29 Go To Box: 17
+Box has number: 2
+Next box is at: 1
+
+Prisoner 29 Go To Box: 2
+Box has number: 53
+Next box is at: 52
+
+Prisoner 29 Go To Box: 53
+Box has number: 56
+Next box is at: 55
+
+Prisoner 29 Go To Box: 56
+Box has number: 55
+Next box is at: 54
+
+Prisoner 29 Go To Box: 55
+Box has number: 86
+Next box is at: 85
+
+Prisoner 29 Go To Box: 86
+Box has number: 11
+Next box is at: 10
+
+Prisoner 29 Go To Box: 11
+Box has number: 80
+Next box is at: 79
+
+Prisoner 29 Go To Box: 80
+Box has number: 42
+Next box is at: 41
+
+Prisoner 29 Go To Box: 42
+Box has number: 23
+Next box is at: 22
+
+Prisoner 29 Go To Box: 23
+Box has number: 92
+Next box is at: 91
+
+Prisoner 29 Go To Box: 92
+Box has number: 3
+Next box is at: 2
+
+Prisoner 29 Go To Box: 3
+Box has number: 39
+Next box is at: 38
+
+Prisoner 29 Go To Box: 39
+Box has number: 72
+Next box is at: 71
+
+Prisoner 29 Go To Box: 72
+Box has number: 64
+Next box is at: 63
+
+Prisoner 29 Go To Box: 64
+Box has number: 46
+Next box is at: 45
+
+1: Prisoner 29 failed and now all prisoners will die!
