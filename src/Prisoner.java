@@ -1,5 +1,5 @@
 public class Prisoner {
-    private int num;
+    private final int num;
 
     public Prisoner(int num) {
         this.num = num;

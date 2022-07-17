@@ -8,20 +8,23 @@ public class Main {
         AtomicInteger total_run_saved = new AtomicInteger();
         AtomicInteger total_run_dead = new AtomicInteger();
 
-        for(int i=0; i<100; i++) {
+        int TOTAL_RUNS = 100; // This number can be changed for more or less runs
+
+        for(int i = 0; i < TOTAL_RUNS; i++) {
             Maze m = new Maze("log_run_"+(i+1)+".txt");
             mazes.add(m);
         }
 
-        for(int i=1; i<=100; i++) {
-            boolean res = mazes.get(i-1).solve();
-            System.out.println("RUN "+i+": "+res);
+        for(int i = 0; i < TOTAL_RUNS; i++) {
+            boolean res = mazes.get(i).solve();
+            System.out.println("RUN "+(i+1)+": "+res);
             if(res) {
                 total_run_saved.getAndIncrement();
             }else{
                 total_run_dead.getAndIncrement();
             }
         }
+
         System.out.println("");
         System.out.println("Total Run Saved: "+total_run_saved);
         System.out.println("Total Run Dead: "+total_run_dead);

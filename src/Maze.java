@@ -4,18 +4,16 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class Maze {
-    int T_CONST = 100;
+    private final int T_CONST = 100;
 
-    private ArrayList<Box> boxes = new ArrayList<>();
-    private ArrayList<Prisoner> prisoners = new ArrayList<>();
-    private ArrayList<Integer> nums = new ArrayList<>();
+    private final ArrayList<Box> boxes = new ArrayList<>();
+    private final ArrayList<Prisoner> prisoners = new ArrayList<>();
 
-
-    private File logFile;
     private FileWriter fileWriter = null;
 
     public Maze(String log_file_name) {
         // Populating Prisoners and their boxes
+        ArrayList<Integer> nums = new ArrayList<>();
         for (int i = 1; i <= T_CONST; i++) {
             boxes.add(new Box(i));
             prisoners.add(new Prisoner(i));
@@ -32,7 +30,7 @@ public class Maze {
             bx.setNextIndex(x - 1);
         }
         try {
-            logFile = new File("logs\\"+log_file_name);
+            File logFile = new File("logs\\" + log_file_name);
             fileWriter = new FileWriter(logFile);
         }catch (Exception e){}
     }

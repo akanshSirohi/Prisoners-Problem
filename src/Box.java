@@ -1,5 +1,7 @@
 public class Box {
-    private int label, value, nextIndex;
+    private final int label;
+    private int value;
+    private int nextIndex;
 
     public Box(int label) {
         this.label = label;
