@@ -67,10 +67,14 @@ public class Maze {
                 break;
             }
             writeLog("Prisoner Number: "+prisoner.getNum()+", end solving!");
-            writeLog("All prisoners are saved in this run!");
+
             writeLog("\n==================================================================\n");
         }
-
+        if(solved) {
+            writeLog("All prisoners are saved in this run!");
+        }else{
+            writeLog("All prisoners will die in this run!");
+        }
         // Close Log File
         try {
             fileWriter.close();
